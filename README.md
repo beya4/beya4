@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beya4
+- 👋 Hi, I’m @behailuSG
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning software engineering @ ALX 
 - 💞️ I’m looking to collaborate on building different softwares
